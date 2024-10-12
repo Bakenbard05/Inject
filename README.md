@@ -1,2 +1,2 @@
 # Inject
- DLL injector written in c++
+ DLL injector for Rocket Science written in c++
